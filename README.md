@@ -2,7 +2,7 @@
   
 # 👋 Hey there, I'm **Aditya Bhandari**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%8F%86;DSA+Enthusiast+%F0%9F%94%A5;Always+Learning+New+Things+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Data+Science+Enthusiast+%F0%9F%93%8A;Machine+Learning+Explorer+%F0%9F%A4%96;Competitive+Programmer+%F0%9F%8F%86;DSA+Enthusiast+%F0%9F%94%A5;Always+Learning+New+Things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 
@@ -20,17 +20,19 @@ const aditya = {
     pronouns: "He" | "Him",
     location: "India 🇮🇳",
     education: "B.Tech @ UPES",
-    currentFocus: ["Data Structures & Algorithms", "Full Stack Development"],
-    funFact: "I debug with console.log and I'm proud of it! 😄"
+    currentFocus: ["Data Science", "Machine Learning", "DSA"],
+    interests: [ "Data Visualization", "Deep Learning", "NLP"],
+    funFact: "I turn data into insights and coffee into code! ☕�"
 };
 ```
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 Currently working on **DSA & Web Development Projects**
-- 🌱 Learning **Advanced Algorithms & System Design**
+- 🔭 Currently working on **Machine Learning & Data Science Projects**
+- 🌱 Learning **Deep Learning, NLP & Computer Vision**
 - 💡 Love solving problems on **LeetCode**
-- 🎯 Goal: **Crack FAANG Interviews**
+- 📊 Passionate about **turning data into actionable insights**
+- 🎯 Goal: **Become a Data Scientist at top tech companies**
 - ⚡ Fun fact: **I can spend hours debugging but fixing it feels like magic!**
 
 <br clear="both">
@@ -42,18 +44,34 @@ const aditya = {
 <div align="center">
 
 ### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧩 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+### � Data Science & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 📊 Data Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🧩 Frameworks & Tools
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ### 🗄️ Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -88,7 +106,7 @@ const aditya = {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ab2908&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ab2908&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -120,6 +138,7 @@ const aditya = {
 
 [![LEETCODE_DSA](https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=LEETCODE_DSA&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/ab2908/LEETCODE_DSA)
 [![GSC2025](https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=GSC2025&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/ab2908/GSC2025)
+[![21DaysOfCode-2025](https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=21DaysOfCode-2025&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/ab2908/21DaysOfCode-2025)
 
 </div>
 
@@ -131,9 +150,11 @@ const aditya = {
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/adityabh4002?theme=dark&font=Fira%20Code&ext=heatmap)
 
-</div>
+### 🏅 LeetCode Badges
 
-> 💡 **Note:** If the LeetCode card doesn't show, update the username in the URL to match your LeetCode profile!
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=adityabh4002&animated=true)
+
+</div>
 
 ---
 
