@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fab2908&count_bg=%236C63FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://github.com/ab2908)
+![Profile Views](https://komarev.com/ghpvc/?username=ab2908&label=Profile%20Views&color=6C63FF&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/ab2908?label=Followers&style=for-the-badge&color=6C63FF)](https://github.com/ab2908?tab=followers)
 
 </div>
@@ -106,7 +106,7 @@ const aditya = {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ab2908&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=ab2908&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7&row=1)
 
 </div>
 
