@@ -129,7 +129,7 @@ const aditya = {
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/adityabhandariab?theme=dark&font=Fira%20Code&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/adityabh4002?theme=dark&font=Fira%20Code&ext=heatmap)
 
 </div>
 
@@ -142,7 +142,7 @@ const aditya = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-bhandari2004)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.bhandari4002@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityabhandari4002@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/adityabh4002/)
 
 </div>
