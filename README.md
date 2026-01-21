@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ab2908&label=Profile%20views&color=6C63FF&style=for-the-badge)](https://github.com/ab2908)
+[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fab2908&count_bg=%236C63FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://github.com/ab2908)
 [![GitHub followers](https://img.shields.io/github/followers/ab2908?label=Followers&style=for-the-badge&color=6C63FF)](https://github.com/ab2908?tab=followers)
 
 </div>
@@ -21,7 +21,7 @@ const aditya = {
     location: "India 🇮🇳",
     education: "B.Tech @ UPES",
     currentFocus: ["Data Science", "Machine Learning", "DSA"],
-    interests: [ "Data Visualization", "Deep Learning", "NLP"],
+    interests: ["Deep Learning", "NLP", "Computer Vision", "Data Visualization"],
     funFact: "I turn data into insights and coffee into code! ☕�"
 };
 ```
