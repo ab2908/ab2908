@@ -120,7 +120,7 @@ me = DataScientist()
   
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ab2908&show_icons=true&count_private=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117&ring_color=00FF41" alt="Aditya Bhandari's GitHub Stats" /> 
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab2908&layout=compact&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=0d1117" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab2908&layout=compact&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=0d1117&cache_seconds=1800" />
 
 </div>
 
