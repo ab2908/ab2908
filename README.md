@@ -151,31 +151,16 @@ me = DataScientist()
 <div align="center">
 
 [![LEETCODE_DSA](https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=LEETCODE_DSA&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41)](https://github.com/ab2908/LEETCODE_DSA)
+[![MentalHealthChatBot](https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=MentalHealthChatBot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41)](https://github.com/ab2908/MentalHealthChatBot)
+[![DynamicPricingStrategy](https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=DynamicPricingStrategy&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41)](https://github.com/ab2908/DynamicPricingStrategy)
+[![BlinkitDashboard](https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=BlinkitDashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41)](https://github.com/ab2908/BlinkitDashboard)
 [![GSC2025](https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=GSC2025&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41)](https://github.com/ab2908/GSC2025)
 [![21DaysOfCode-2025](https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=21DaysOfCode-2025&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41)](https://github.com/ab2908/21DaysOfCode-2025)
 
 </div>
 
----
 
-## 🎯 `> leetcode --stats`
 
-<div align="center">
-
-<a href="https://leetcode.com/u/adityabh4002/">
-  <img src="https://leetcard.jacoblin.cool/adityabh4002?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
-</a>
-
-### ⚔️ Battle Badges
-
-![](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D1117&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fadityabh4002&logo=leetcode&logoColor=yellow)
-![](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D1117&color=%2300b8a3&label=Easy&query=easySolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fadityabh4002&logo=leetcode&logoColor=yellow)
-![](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D1117&color=%23ffc01e&label=Medium&query=mediumSolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fadityabh4002&logo=leetcode&logoColor=yellow)
-![](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D1117&color=%23ef4743&label=Hard&query=hardSolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fadityabh4002&logo=leetcode&logoColor=yellow)
-
-</div>
-
----
 
 ## 🌐 `> netstat -connections`
 
