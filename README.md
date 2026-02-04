@@ -118,8 +118,10 @@ me = DataScientist()
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ab2908&show_icons=true&count_private=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117&ring_color=00FF41&cache_seconds=1800" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab2908&layout=compact&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=0d1117&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=ab2908&show_icons=true&theme=dark" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab2908&layout=compact&theme=dark" alt="Top Languages" />
+
 
 </div>
 
@@ -146,29 +148,34 @@ me = DataScientist()
 ---
 
 ## 🔥 `> ls -la ~/projects/`
-
 <div align="center">
 
 <a href="https://github.com/ab2908/LEETCODE_DSA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=LEETCODE_DSA&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1800&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=LEETCODE_DSA&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 </a>
+
 <a href="https://github.com/ab2908/MentalHealthChatBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=MentalHealthChatBot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1800&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=MentalHealthChatBot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 </a>
+
 <a href="https://github.com/ab2908/DynamicPricingStrategy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=DynamicPricingStrategy&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1800&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=DynamicPricingStrategy&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 </a>
+
 <a href="https://github.com/ab2908/BlinkitDashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=BlinkitDashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1800&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=BlinkitDashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 </a>
+
 <a href="https://github.com/ab2908/GSC2025">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=GSC2025&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1800&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=GSC2025&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 </a>
+
 <a href="https://github.com/ab2908/21DaysOfCode-2025">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=21DaysOfCode-2025&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1800&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=21DaysOfCode-2025&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 </a>
 
 </div>
+
 
 
 
