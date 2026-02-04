@@ -118,9 +118,9 @@ me = DataScientist()
 
 <div align="center">
   
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ab2908&show_icons=true&count_private=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117&ring_color=00FF41" alt="Aditya Bhandari's GitHub Stats" /> 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ab2908&show_icons=true&count_private=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117&ring_color=00FF41&cache_seconds=1800)
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab2908&layout=compact&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=0d1117&langs_count=8&cache_seconds=1800" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ab2908&layout=compact&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=0d1117&langs_count=8&cache_seconds=1800)
 
 </div>
 
@@ -150,12 +150,12 @@ me = DataScientist()
 
 <div align="center">
 
-[![LEETCODE_DSA](https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=LEETCODE_DSA&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41)](https://github.com/ab2908/LEETCODE_DSA)
-[![MentalHealthChatBot](https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=MentalHealthChatBot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41)](https://github.com/ab2908/MentalHealthChatBot)
-[![DynamicPricingStrategy](https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=DynamicPricingStrategy&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41)](https://github.com/ab2908/DynamicPricingStrategy)
-[![BlinkitDashboard](https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=BlinkitDashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41)](https://github.com/ab2908/BlinkitDashboard)
-[![GSC2025](https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=GSC2025&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41)](https://github.com/ab2908/GSC2025)
-[![21DaysOfCode-2025](https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=21DaysOfCode-2025&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41)](https://github.com/ab2908/21DaysOfCode-2025)
+[![LEETCODE_DSA](https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=LEETCODE_DSA&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1800&show_owner=true)](https://github.com/ab2908/LEETCODE_DSA)
+[![MentalHealthChatBot](https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=MentalHealthChatBot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1800&show_owner=true)](https://github.com/ab2908/MentalHealthChatBot)
+[![DynamicPricingStrategy](https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=DynamicPricingStrategy&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1800&show_owner=true)](https://github.com/ab2908/DynamicPricingStrategy)
+[![BlinkitDashboard](https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=BlinkitDashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1800&show_owner=true)](https://github.com/ab2908/BlinkitDashboard)
+[![GSC2025](https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=GSC2025&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1800&show_owner=true)](https://github.com/ab2908/GSC2025)
+[![21DaysOfCode-2025](https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=21DaysOfCode-2025&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1800&show_owner=true)](https://github.com/ab2908/21DaysOfCode-2025)
 
 </div>
 
