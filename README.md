@@ -153,48 +153,26 @@ me = DataScientist()
 ## 🔥 `> ls -la ~/projects/`
 <div align="center">
 
-<a href="https://github.com/ab2908/LEETCODE_DSA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=LEETCODE_DSA&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
-</a>
-
 <a href="https://github.com/ab2908/MentalHealthChatBot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=MentalHealthChatBot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 </a>
-
-</div>
-
-> 🧠 **Mental Health Chatbot** — An end-to-end NLP-powered chatbot for mental health support. Built with **Python, PyTorch, HuggingFace & DistilBERT** for emotion detection, crisis keyword-based risk scoring, and sentiment aggregation. Features a Flask backend with REST API serving and a responsive web frontend with mood tracking, relaxation tools, and real-time empathetic responses.
-
-<div align="center">
-
 <a href="https://github.com/ab2908/DynamicPricingStrategy">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=DynamicPricingStrategy&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 </a>
-
 <a href="https://github.com/ab2908/BlinkitDashboard">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=BlinkitDashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 </a>
-
-</div>
-
-> 💰 **Dynamic Pricing Strategy** — A machine learning-powered web app that predicts optimal ride prices based on real-time supply and demand dynamics. Built with **Python, Flask, Scikit-learn, Pandas, NumPy & Plotly**. Implements demand/supply multiplier-based feature engineering and a Random Forest Regressor trained on 1,000+ ride-sharing records for real-time fare adjustment.
-
-> 📊 **Blinkit Dashboard** — An interactive business intelligence dashboard analyzing Blinkit's grocery delivery data. Built with **Power BI** for data visualization, featuring sales performance analytics, outlet-level comparisons, item category breakdowns, and KPI tracking across multiple dimensions to derive actionable retail insights.
-
-<div align="center">
-
+<a href="https://github.com/ab2908/LEETCODE_DSA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=LEETCODE_DSA&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+</a>
 <a href="https://github.com/ab2908/GSC2025">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=GSC2025&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 </a>
-
 <a href="https://github.com/ab2908/21DaysOfCode-2025">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=21DaysOfCode-2025&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 </a>
 
 </div>
-
-
-
 
 
 ## 🌐 `> netstat -connections`
