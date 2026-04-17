@@ -35,10 +35,12 @@ class DataScientist:
     @property
     def skills(self):
         return {
-            "languages": ["Python", "Java", "SQL", "C"],
-            "ml_stack": ["TensorFlow", "PyTorch", "Scikit-Learn"],
-            "data": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
-            "focus": ["Deep Learning", "NLP", "Computer Vision"]
+            "languages": ["Java", "Python"],
+            "database": ["MySQL"],
+            "ml_stack": ["Pandas", "NumPy", "Scikit-Learn", "PyTorch"],
+            "viz": ["Power BI", "Tableau", "Matplotlib", "Seaborn"],
+            "web": ["HTML", "CSS"],
+            "quant": ["Backtesting", "Time Series", "Portfolio Analytics"]
         }
     
     def daily_routine(self):
@@ -55,18 +57,12 @@ me = DataScientist()
 
 <div align="center">
 
-<!-- Languages Section -->
+<!-- Programming Languages -->
 <details open>
 <summary><b>💻 PROGRAMMING LANGUAGES</b></summary>
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117"/>
-<br><br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
 </details>
 
 <!-- Data Science & ML -->
@@ -75,7 +71,6 @@ me = DataScientist()
 <br>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117"/>
 <br><br>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117"/>
@@ -85,15 +80,23 @@ me = DataScientist()
 
 <!-- Data Visualization -->
 <details open>
-<summary><b>📊 DATA VISUALIZATION</b></summary>
+<summary><b>📊 VISUALIZATION TOOLS</b></summary>
 <br>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
 </details>
 
-<!-- Tools & Frameworks -->
+<!-- Web Technologies -->
+<details open>
+<summary><b>🌐 WEB TECHNOLOGIES</b></summary>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117"/>
+</details>
+
+<!-- Quant & Finance -->
 <details open>
 <summary><b>🔧 TOOLS & FRAMEWORKS</b></summary>
 <br>
@@ -158,6 +161,12 @@ me = DataScientist()
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=MentalHealthChatBot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 </a>
 
+</div>
+
+> 🧠 **Mental Health Chatbot** — An end-to-end NLP-powered chatbot for mental health support. Built with **Python, PyTorch, HuggingFace & DistilBERT** for emotion detection, crisis keyword-based risk scoring, and sentiment aggregation. Features a Flask backend with REST API serving and a responsive web frontend with mood tracking, relaxation tools, and real-time empathetic responses.
+
+<div align="center">
+
 <a href="https://github.com/ab2908/DynamicPricingStrategy">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=DynamicPricingStrategy&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 </a>
@@ -165,6 +174,14 @@ me = DataScientist()
 <a href="https://github.com/ab2908/BlinkitDashboard">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=BlinkitDashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 </a>
+
+</div>
+
+> 💰 **Dynamic Pricing Strategy** — A machine learning-powered web app that predicts optimal ride prices based on real-time supply and demand dynamics. Built with **Python, Flask, Scikit-learn, Pandas, NumPy & Plotly**. Implements demand/supply multiplier-based feature engineering and a Random Forest Regressor trained on 1,000+ ride-sharing records for real-time fare adjustment.
+
+> 📊 **Blinkit Dashboard** — An interactive business intelligence dashboard analyzing Blinkit's grocery delivery data. Built with **Power BI** for data visualization, featuring sales performance analytics, outlet-level comparisons, item category breakdowns, and KPI tracking across multiple dimensions to derive actionable retail insights.
+
+<div align="center">
 
 <a href="https://github.com/ab2908/GSC2025">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=GSC2025&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
