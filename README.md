@@ -154,13 +154,13 @@ me = DataScientist()
 <div align="center">
 
 <a href="https://github.com/ab2908/MentalHealthChatBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=MentalHealthChatBot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=MentalHealthChatBot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1800" />
 </a>
 <a href="https://github.com/ab2908/DynamicPricingStrategy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=DynamicPricingStrategy&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=DynamicPricingStrategy&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1800" />
 </a>
 <a href="https://github.com/ab2908/BlinkitDashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=BlinkitDashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=BlinkitDashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1800" />
 </a>
 <a href="https://github.com/ab2908/LEETCODE_DSA">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=LEETCODE_DSA&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
