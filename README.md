@@ -152,7 +152,9 @@ me = DataScientist()
 
 ## 🔥 `> ls -la ~/projects/`
 <div align="center">
-
+<a href="https://github.com/ab2908/Real-Time-AI-Assistant-Using-RAG-Langchain">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=Real-Time-AI-Assistant-Using-RAG-Langchain&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+</a>
 <a href="https://github.com/ab2908/MentalHealthChatBot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=MentalHealthChatBot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=1800" />
 </a>
