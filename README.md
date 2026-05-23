@@ -173,6 +173,9 @@ me = DataScientist()
 <a href="https://github.com/ab2908/LEETCODE_DSA">
   <img src="https://github-readme-stats-y7m1.vercel.app/api/pin/?username=ab2908&repo=LEETCODE_DSA&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=14400" />
 </a>
+<a href="https://github.com/ab2908/Hackerrank_SQL">
+  <img src="https://github-readme-stats-y7m1.vercel.app/api/pin/?username=ab2908&repo=Hackerrank_SQL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=14400" />
+</a>
 <a href="https://github.com/ab2908/GSC2025">
   <img src="https://github-readme-stats-y7m1.vercel.app/api/pin/?username=ab2908&repo=GSC2025&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=14400" />
 </a>
