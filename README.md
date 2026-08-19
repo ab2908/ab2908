@@ -23,28 +23,34 @@
 
 ## ⚡ `> whoami`
 
-```python
-#!/usr/bin/env python3
-class DataScientist:
-    def __init__(self):
-        self.name = "Aditya Bhandari"
-        self.role = "Data Science Enthusiast"
-        self.location = "India 🇮🇳"
-        self.education = "B.Tech @ UPES"
-        
-    @property
-    def skills(self):
-        return {
-            "languages": ["Python", "Java", "SQL", "C"],
-            "ml_stack": ["TensorFlow", "PyTorch", "Scikit-Learn"],
-            "data": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
-            "focus": ["Deep Learning", "NLP", "Computer Vision"]
-        }
-    
-    def daily_routine(self):
-        return "☕ → 💻 → 🧠 → 🔁"
+```java
+import java.util.*;
 
-me = DataScientist()
+public class DataScientist {
+    String name = "Aditya Bhandari";
+    String role = "Data Science Enthusiast";
+    String location = "India 🇮🇳";
+    String education = "B.Tech @ UPES";
+
+    Map<String, List<String>> getSkills() {
+        Map<String, List<String>> skills = new LinkedHashMap<>();
+        skills.put("languages", List.of("Java", "Python"));
+        skills.put("database", List.of("MySQL"));
+        skills.put("ml_stack", List.of("Pandas", "NumPy", "Scikit-Learn", "PyTorch"));
+        skills.put("viz", List.of("Power BI", "Tableau", "Matplotlib", "Seaborn"));
+        skills.put("web", List.of("HTML", "CSS"));
+        skills.put("quant", List.of("Backtesting", "Time Series", "Portfolio Analytics"));
+        return skills;
+    }
+
+    String dailyRoutine() {
+        return "☕ → 💻 → 🧠 → 🔁";
+    }
+
+    public static void main(String[] args) {
+        DataScientist me = new DataScientist();
+    }
+}
 ```
 
 <br clear="both">
@@ -55,18 +61,12 @@ me = DataScientist()
 
 <div align="center">
 
-<!-- Languages Section -->
+<!-- Programming Languages -->
 <details open>
 <summary><b>💻 PROGRAMMING LANGUAGES</b></summary>
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117"/>
-<br><br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
 </details>
 
 <!-- Data Science & ML -->
@@ -75,7 +75,6 @@ me = DataScientist()
 <br>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117"/>
 <br><br>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117"/>
@@ -85,15 +84,23 @@ me = DataScientist()
 
 <!-- Data Visualization -->
 <details open>
-<summary><b>📊 DATA VISUALIZATION</b></summary>
+<summary><b>📊 VISUALIZATION TOOLS</b></summary>
 <br>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
 </details>
 
-<!-- Tools & Frameworks -->
+<!-- Web Technologies -->
+<details open>
+<summary><b>🌐 WEB TECHNOLOGIES</b></summary>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117"/>
+</details>
+
+<!-- Quant & Finance -->
 <details open>
 <summary><b>🔧 TOOLS & FRAMEWORKS</b></summary>
 <br>
@@ -117,11 +124,9 @@ me = DataScientist()
 ## 📊 `> ./fetch_github_stats.sh`
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=ab2908&show_icons=true&theme=dark" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab2908&layout=compact&theme=dark" alt="Top Languages" />
-
+<img src="https://github.com/ab2908/ab2908/blob/stats-output/stats.svg" alt="Aditya's GitHub Stats" width="49%" />
+<img src="https://github.com/ab2908/ab2908/blob/stats-output/top-langs.svg" alt="Aditya's Top Languages" width="41%" />
 
 </div>
 
@@ -150,34 +155,33 @@ me = DataScientist()
 ## 🔥 `> ls -la ~/projects/`
 <div align="center">
 
-<a href="https://github.com/ab2908/LEETCODE_DSA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=LEETCODE_DSA&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+<a href="https://github.com/ab2908/Real-Time-AI-Assistant-Using-RAG-Langchain">
+  <img src="https://github.com/ab2908/ab2908/blob/stats-output/pins/Real-Time-AI-Assistant-Using-RAG-Langchain.svg" />
 </a>
 
 <a href="https://github.com/ab2908/MentalHealthChatBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=MentalHealthChatBot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+  <img src="https://github.com/ab2908/ab2908/blob/stats-output/pins/MentalHealthChatBot.svg" />
 </a>
-
 <a href="https://github.com/ab2908/DynamicPricingStrategy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=DynamicPricingStrategy&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+  <img src="https://github.com/ab2908/ab2908/blob/stats-output/pins/DynamicPricingStrategy.svg" />
 </a>
-
 <a href="https://github.com/ab2908/BlinkitDashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=BlinkitDashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+  <img src="https://github.com/ab2908/ab2908/blob/stats-output/pins/BlinkitDashboard.svg" />
 </a>
-
+<a href="https://github.com/ab2908/LEETCODE_DSA">
+  <img src="https://github.com/ab2908/ab2908/blob/stats-output/pins/LEETCODE_DSA.svg" />
+</a>
 <a href="https://github.com/ab2908/GSC2025">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=GSC2025&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+  <img src="https://github.com/ab2908/ab2908/blob/stats-output/pins/GSC2025.svg" />
 </a>
-
 <a href="https://github.com/ab2908/21DaysOfCode-2025">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab2908&repo=21DaysOfCode-2025&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+  <img src="https://github.com/ab2908/ab2908/blob/stats-output/pins/21DaysOfCode-2025.svg" />
+</a>
+<a href="https://github.com/ab2908/Hackerrank_SQL">
+  <img src="https://github.com/ab2908/ab2908/blob/stats-output/pins/Hackerrank_SQL.svg" />
 </a>
 
 </div>
-
-
-
 
 
 ## 🌐 `> netstat -connections`
