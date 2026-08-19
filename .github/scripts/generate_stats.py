@@ -28,6 +28,7 @@ PINNED_REPOS = [
     "Hackerrank_SQL",
     "GSC2025",
     "21DaysOfCode-2025",
+    "tanayprabhakar/Quant-Analytics-Tool",
 ]
 
 LANG_COLORS = {
@@ -148,11 +149,12 @@ def main():
         f.write(make_langs_svg(repos))
 
     by_name = {r["name"]: r for r in repos}
-    for repo_name in PINNED_REPOS:
-        repo = by_name.get(repo_name)
+    for spec in PINNED_REPOS:
+        owner, _, repo_name = spec.rpartition("/") if "/" in spec else (USERNAME, "/", spec)
+        repo = by_name.get(repo_name) if owner == USERNAME else None
         if repo is None:
             try:
-                repo = api(f"/repos/{USERNAME}/{repo_name}")
+                repo = api(f"/repos/{owner}/{repo_name}")
             except Exception:
                 continue
         with open(f"{OUT_DIR}/pins/{repo_name}.svg", "w", encoding="utf-8") as f:

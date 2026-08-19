@@ -154,32 +154,41 @@ public class DataScientist {
 
 ## 🔥 `> ls -la ~/projects/`
 <div align="center">
-
+<a href="https://github.com/tanayprabhakar/Quant-Analytics-Tool">
+  <img src="https://github.com/ab2908/ab2908/blob/stats-output/pins/Quant-Analytics-Tool.svg" />
+</a>
 <a href="https://github.com/ab2908/Real-Time-AI-Assistant-Using-RAG-Langchain">
   <img src="https://github.com/ab2908/ab2908/blob/stats-output/pins/Real-Time-AI-Assistant-Using-RAG-Langchain.svg" />
 </a>
 
+<!--
 <a href="https://github.com/ab2908/MentalHealthChatBot">
   <img src="https://github.com/ab2908/ab2908/blob/stats-output/pins/MentalHealthChatBot.svg" />
 </a>
+-->
 <a href="https://github.com/ab2908/DynamicPricingStrategy">
   <img src="https://github.com/ab2908/ab2908/blob/stats-output/pins/DynamicPricingStrategy.svg" />
 </a>
 <a href="https://github.com/ab2908/BlinkitDashboard">
   <img src="https://github.com/ab2908/ab2908/blob/stats-output/pins/BlinkitDashboard.svg" />
 </a>
+<!--
 <a href="https://github.com/ab2908/LEETCODE_DSA">
   <img src="https://github.com/ab2908/ab2908/blob/stats-output/pins/LEETCODE_DSA.svg" />
 </a>
 <a href="https://github.com/ab2908/Hackerrank_SQL">
   <img src="https://github.com/ab2908/ab2908/blob/stats-output/pins/Hackerrank_SQL.svg" />
 </a>
+-->
 <a href="https://github.com/ab2908/GSC2025">
   <img src="https://github.com/ab2908/ab2908/blob/stats-output/pins/GSC2025.svg" />
 </a>
+<!--
 <a href="https://github.com/ab2908/21DaysOfCode-2025">
   <img src="https://github.com/ab2908/ab2908/blob/stats-output/pins/21DaysOfCode-2025.svg" />
 </a>
+-->
+
 
 </div>
 
@@ -191,16 +200,6 @@ public class DataScientist {
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/aditya-bhandari2004)
 [![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:adityabhandari4002@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117)](https://leetcode.com/u/adityabh4002/)
-
-</div>
-
----
-
-<div align="center">
-
-### � `/dev/random/quote`
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
 
 </div>
 
