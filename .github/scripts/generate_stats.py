@@ -25,9 +25,9 @@ PINNED_REPOS = [
     "DynamicPricingStrategy",
     "BlinkitDashboard",
     "LEETCODE_DSA",
+    "Hackerrank_SQL",
     "GSC2025",
     "21DaysOfCode-2025",
-    "Hackerrank_SQL",
 ]
 
 LANG_COLORS = {

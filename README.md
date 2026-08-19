@@ -171,14 +171,14 @@ public class DataScientist {
 <a href="https://github.com/ab2908/LEETCODE_DSA">
   <img src="https://github.com/ab2908/ab2908/blob/stats-output/pins/LEETCODE_DSA.svg" />
 </a>
+<a href="https://github.com/ab2908/Hackerrank_SQL">
+  <img src="https://github.com/ab2908/ab2908/blob/stats-output/pins/Hackerrank_SQL.svg" />
+</a>
 <a href="https://github.com/ab2908/GSC2025">
   <img src="https://github.com/ab2908/ab2908/blob/stats-output/pins/GSC2025.svg" />
 </a>
 <a href="https://github.com/ab2908/21DaysOfCode-2025">
   <img src="https://github.com/ab2908/ab2908/blob/stats-output/pins/21DaysOfCode-2025.svg" />
-</a>
-<a href="https://github.com/ab2908/Hackerrank_SQL">
-  <img src="https://github.com/ab2908/ab2908/blob/stats-output/pins/Hackerrank_SQL.svg" />
 </a>
 
 </div>
@@ -204,28 +204,3 @@ public class DataScientist {
 
 </div>
 
----
-
-<div align="center">
-
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=120&section=footer"/>
-
-```
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⠟⠋⠉⠉⠉⠉⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⠀⠀⣀⣤⣴⣶⣶⣤⣄⡀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣆⠀⠻⣿⣿⣿⣿⣿⣿⣿⠏⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣷⣤⣀⠉⠛⠛⠛⠋⣁⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-            Thanks for visiting! 💚
-           Star repos if you like them!
-```
-
-**`[ab2908@github ~]$` Made with � and lots of ☕**
-
-</div>
