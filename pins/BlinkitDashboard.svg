@@ -1,0 +1,16 @@
+<svg width="400" height="120" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: 600 16px 'Segoe UI', Ubuntu, sans-serif; fill: #00FF41; }
+    .text { font: 400 13px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .stat { font: 600 13px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+  </style>
+  <rect x="0.5" y="0.5" rx="8" width="399" height="119" fill="#0d1117" stroke="#30363d"/>
+  
+  <text x="20" y="30" class="title">📌 BlinkitDashboard</text>
+  <text x="20" y="55" class="text">Power BI dashboard analyzing Blinkit grocery delivery data with...</text>
+  <circle cx="26" cy="88" r="6" fill="#8b949e"/>
+  <text x="38" y="93" class="text">N/A</text>
+  <text x="150" y="93" class="text">⭐ 0</text>
+  <text x="220" y="93" class="text">🍴 0</text>
+
+</svg>

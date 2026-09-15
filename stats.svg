@@ -1,0 +1,9 @@
+<svg width="300" height="195" viewBox="0 0 300 195" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: 600 16px 'Segoe UI', Ubuntu, sans-serif; fill: #00FF41; }
+    .text { font: 400 13px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .stat { font: 600 13px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+  </style>
+  <rect x="0.5" y="0.5" rx="8" width="299" height="194" fill="#0d1117" stroke="#30363d"/>
+  <text x="25" y="35" class="title">Aditya's GitHub Stats</text><text x="25" y="68" class="text">⭐ Total Stars:</text><text x="275" y="68" class="stat" text-anchor="end">0</text><text x="25" y="98" class="text">📦 Public Repos:</text><text x="275" y="98" class="stat" text-anchor="end">10</text><text x="25" y="128" class="text">👥 Followers:</text><text x="275" y="128" class="stat" text-anchor="end">0</text><text x="25" y="158" class="text">🍴 Total Forks:</text><text x="275" y="158" class="stat" text-anchor="end">0</text>
+</svg>
